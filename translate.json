@@ -1,0 +1,25 @@
+{
+    "TW": {
+        "ping": "連線測試",
+        "embed": "嵌入發送",
+        "restart": "重啟",
+        "avatar": "取得頭貼",
+        "add": "新增功能開啟頻道",
+        "remove": "刪除訊息或功能開啟頻道",
+        "op": "提升為bot管理員",
+        "deop": "移除bot管理員",
+        "enable": "開啟功能(指令)",
+        "disable": "關閉功能(指令)",
+        "status": "列出狀態",
+        "scrabble": "指定頻道接龍(主動)",
+        "prefix":"設定前綴",
+        "help":"功能說明",
+        "set":"設定functions的settings",
+        "percent":"任何句子中間加入(不含空白) { % } 會取代成0~100隨機數字(不需要前綴)(半主動)",
+        "emojiFollower":"對完全是指定emoji的句子回應相同的emojii(主動)",
+        "autoReply":"對句子包含招呼詞 做出對應隨機詞語回應(主動)",
+        "say":"說出同一句話(可指定到某頻道 id or #tag)",
+        "getfile":"取得指定檔案並傳回",
+        "randomOption":"替換語句中{}內選項為隨機其中一個"
+    }
+}
